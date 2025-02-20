@@ -2,6 +2,8 @@
 
 🚀 **A cutting-edge AI-powered medical chatbot** designed to assist users with medical queries using advanced NLP and vector search technology.
 
+![Screenshot 2025-02-20 214250](https://github.com/user-attachments/assets/8604a15a-4637-44d0-8fe4-be661ce8de77)
+
 ---
 
 ## 📂 Project Structure
