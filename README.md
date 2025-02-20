@@ -6,14 +6,19 @@
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
+-  `📁 research/` # 📄 Research documents & references
+- `📁 src/` # ⚙️ Source code for chatbot logic
+- `📁 static/` # 🎨 CSS & frontend assets
+- `📁 templates/` # 🖼️ HTML templates for UI
+-  `📜 .gitignore/` # 🚫 Git ignored files
+-  `📜 LICENSE/` # 📜 License information
+-  `📜 README.md/` # 📖 This file!
+-  `📜 app.py/` # 🚀 Main Flask API
+- `📜 requirements.txt/` # 📌 Required dependencies 🔖
+-  `📜 setup.py/` # 🛠️ Setup configurations
+-  `📜 store_index.py/` # 📂 Pinecone index storage ├
+-  `📜 template.py/` # 🎭 UI template logic
 
-Project Root ├── 📁 research # 📄 Research documents & references ├── 📁 src # ⚙️ Source code for chatbot logic ├── 📁 static # 🎨 CSS & frontend assets ├── 📁 templates # 🖼️ HTML templates for UI ├── 📜 .gitignore # 🚫 Git ignored files ├── 📜 LICENSE # 📜 License information ├── 📜 README.md # 📖 This file! ├── 📜 app.py # 🚀 Main Flask API ├── 📜 requirements.txt # 📌 Required dependencies 🔖 ├── 📜 setup.py # 🛠️ Setup configurations ├── 📜 store_index.py # 📂 Pinecone index storage ├── 📜 template.py # 🎭 UI template logic
-
-Copy
-Edit
-
- 
 ---
 
 ## 🔧 Installation & Setup
