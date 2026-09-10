@@ -1,4 +1,3 @@
-[Uploading medical-chatbot-readme.md…]()
 # 🏥 Medical Chatbot — AI-Powered Medical Q&A with Retrieval-Augmented Search
 
 An AI chatbot that answers medical questions by retrieving relevant information from a knowledge base rather than relying purely on a language model's memory — reducing hallucinated or made-up answers on sensitive topics.
